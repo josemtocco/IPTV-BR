@@ -1,0 +1,3 @@
+#EXTM3U
+# Lista será gerada automaticamente pelo update.py
+# Rode o workflow no GitHub Actions ou execute: python update.py
